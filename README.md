@@ -4,7 +4,7 @@
 - 💞️ I’m from Viet Nam.
 - 📫 How to reach me 
 + do.quanganh99zz@gmail.com
-+ facebook.com/quanganh0902/
++ http://facebook.com/quanganh0902/
 <!---
 doquanganh99zz/doquanganh99zz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
